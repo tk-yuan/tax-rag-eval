@@ -47,6 +47,16 @@ python scripts/05_ask.py "400万的设备能一次性扣除吗"   # 提问演示
 
 单条命令即可复现同一份评测数字。
 
+**Docker 方式**（不用装 Python）：
+
+```bash
+docker build -t tax-rag-eval .
+docker run --rm --env-file .env -v "$PWD/reports:/app/reports" tax-rag-eval
+```
+
+默认把「清洗 → 建索引 → 建评测集 → 跑消融」整条跑一遍；
+单跑某一步就覆盖命令，例如 `... tax-rag-eval python scripts/05_ask.py "问题"`。
+
 ---
 
 ## 架构
