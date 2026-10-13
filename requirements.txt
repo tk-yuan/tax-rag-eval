@@ -1,0 +1,16 @@
+# 核心依赖：检索评测最小闭环
+langchain-core>=1.2,<2
+langchain-text-splitters>=1.1,<2
+numpy>=2.0,<3
+httpx>=0.28,<1
+python-dotenv>=1.2,<2
+
+# 注意：本项目不依赖向量数据库（Chroma/FAISS/Milvus）。
+# 语料规模（数千片段）下，numpy 精确检索只要 0.26ms，比 embed 一次的 API
+# 调用快三个数量级，引入向量库纯属负收益。详见 src/taxrag/index/store.py 的文件头。
+
+# 可选：装了 BM25 走真分词，没装则自动退化为字符二元组
+# jieba>=0.42
+
+# 开发：跑测试用
+# pytest>=8

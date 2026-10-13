@@ -1,0 +1,61 @@
+关于更新宣传文化增值税优惠政策适用名单的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于更新宣传文化增值税优惠政策适用名单的公告
+ 2024年08月01日来源：
+-->
+财政部 税务总局公告2024年第11号 
+ 根据专为老年人出版发行的报纸和期刊名单变化情况，现就适用宣传文化增值税优惠政策有关事项公告如下： 
+ 《财政部 税务总局关于延续实施宣传文化增值税优惠政策的公告》（财政部 税务总局公告2023年第60号）中“专为老年人出版发行的报纸和期刊名单”按照本公告附件执行。 
+ 特此公告。 
+ 附件：专为老年人出版发行的报纸和期刊名单 
+ 财政部 税务总局 
+ 2024年7月18日 
+附件下载：
+ 专为老年人出版发行的报纸和期刊名单.pdf
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2024年08月01日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

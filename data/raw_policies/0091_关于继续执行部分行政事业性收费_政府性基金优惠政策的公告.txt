@@ -1,0 +1,59 @@
+关于继续执行部分行政事业性收费、政府性基金优惠政策的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于继续执行部分行政事业性收费、政府性基金优惠政策的公告
+ 2023年09月27日来源：
+-->
+财政部 国家发展改革委公告2023年第45号 
+ 为进一步减轻企业负担，支持企业发展，现将继续执行部分行政事业性收费、政府性基金优惠政策公告如下:
+ 自2024年1月1日至2027年12月31日，继续执行《财政部 国家发展改革委关于继续免征相关防疫药品和医疗器械注册费的公告》（财政部 国家发展改革委公告2021年第9号）和《财政部关于取消、调整部分政府性基金有关政策的通知》（财税〔2017〕18号）第三条规定的地方水库移民扶持基金政策。
+ 特此公告。 
+财政部 国家发展改革委
+2023年9月21日
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2023年09月27日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

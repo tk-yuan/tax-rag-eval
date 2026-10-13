@@ -1,0 +1,61 @@
+关于支持货物期货市场对外开放有关增值税政策的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于支持货物期货市场对外开放有关增值税政策的公告
+ 2023年08月22日来源：
+-->
+ 财政部 税务总局公告2023年第21号
+ 为继续支持货物期货市场对外开放，现将有关增值税政策公告如下：
+ 对经国务院批准对外开放的货物期货品种保税交割业务，暂免征收增值税。
+ 上述期货交易中实际交割的货物，如果发生进口或者出口的，统一按照现行货物进出口税收政策执行。非保税货物发生的期货实物交割仍按《国家税务总局关于下发<货物期货征收增值税具体办法>的通知》（国税发〔1994〕244号）的规定执行。
+ 本公告执行至2027年12月31日。
+ 特此公告。
+ 财政部 税务总局
+ 2023年8月17日 
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2023年08月22日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

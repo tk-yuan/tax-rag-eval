@@ -1,0 +1,60 @@
+关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于延续实施境外机构投资境内债券市场企业所得税、增值税政策的公告
+ 2026年01月15日来源：税政司
+-->
+ 财政部 税务总局公告2026年第5号
+ 为进一步推动债券市场对外开放，现将有关税收政策公告如下：
+ 自2026年１月1日起至2027年12月31日止，对境外机构投资境内债券市场取得的债券利息收入暂免征收企业所得税和增值税。
+ 上述暂免征收企业所得税的范围不包括境外机构在境内设立的机构、场所取得的与该机构、场所有实际联系的债券利息。
+ 特此公告。
+ 财政部 税务总局
+ 2026年1月13日
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2026年01月15日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

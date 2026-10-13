@@ -1,0 +1,61 @@
+关于育儿补贴有关个人所得税政策的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于育儿补贴有关个人所得税政策的公告
+ 2025年08月21日来源：税政司
+-->
+财政部 税务总局公告2025年第6号
+ 为贯彻落实中央办公厅、国务院办公厅印发的《育儿补贴制度实施方案》有关规定，现就育儿补贴有关个人所得税政策公告如下：
+ 一、对按照育儿补贴制度规定发放的育儿补贴免征个人所得税。
+ 二、卫生健康部门与财政部门、税务部门建立信息共享机制。县级卫生健康部门按规定为申领补贴的人员办理个人所得税免税申报。
+ 三、本公告自2025年1月1日起施行。
+ 特此公告。
+ 财政部 税务总局
+ 2025年8月18日
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2025年08月21日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

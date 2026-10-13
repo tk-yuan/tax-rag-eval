@@ -1,0 +1,19 @@
+# 环境变量与密钥
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 向量库缓存（体积大且可由 02_build_index.py 重建）
+.cache/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+
+# 切分结果是派生产物（跑 scripts/02_build_index.py 即可重建），不入库
+data/processed/chunks*.jsonl

@@ -1,0 +1,61 @@
+关于增值税期末留抵退税有关城市维护建设税 教育费附加和地方教育附加政策的通知
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于增值税期末留抵退税有关城市维护建设税 
+教育费附加和地方教育附加政策的通知
+ 2018年07月31日来源：
+-->
+财税〔2018〕80号
+各省、自治区、直辖市、计划单列市财政厅（局），国家税务总局各省、自治区、直辖市、计划单列市税务局，新疆生产建设兵团财政局：
+ 为保证增值税期末留抵退税政策有效落实，现就留抵退税涉及的城市维护建设税、教育费附加和地方教育附加问题通知如下：
+ 对实行增值税期末留抵退税的纳税人，允许其从城市维护建设税、教育费附加和地方教育附加的计税（征）依据中扣除退还的增值税税额。
+ 本通知自发布之日起施行。
+ 财政部 税务总局
+ 2018年7月27日
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2018年07月31日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源

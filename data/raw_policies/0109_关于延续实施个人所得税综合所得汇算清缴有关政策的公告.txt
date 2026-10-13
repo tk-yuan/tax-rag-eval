@@ -1,0 +1,59 @@
+关于延续实施个人所得税综合所得汇算清缴有关政策的公告
+财政部微信
+ 财政部视频号
+ 财政部
+官方抖音号
+移动客户端Android下载
+移动客户端iphone下载
+ 税政司
+2017年11月21日 星期二
+ 税政司
+ 税政司
+ 搜索
+ 高级搜索-->
+ 返回主站
+ 当前位置：首页>政策发布
+ 关于延续实施个人所得税综合所得汇算清缴有关政策的公告
+ 2023年08月28日来源：
+-->
+财政部 税务总局公告2023年第32号
+ 为进一步减轻纳税人负担，现就个人所得税综合所得汇算清缴有关政策公告如下： 
+ 2024年1月1日至2027年12月31日居民个人取得的综合所得，年度综合所得收入不超过12万元且需要汇算清缴补税的，或者年度汇算清缴补税金额不超过400元的，居民个人可免于办理个人所得税综合所得汇算清缴。居民个人取得综合所得时存在扣缴义务人未依法预扣预缴税款的情形除外。 
+ 特此公告。 
+ 财政部 税务总局 
+ 2023年8月18日 
+附件下载：
+ {
+ var handel=document.getElementById("appendix1")
+ var handel1=document.getElementById("down1")
+ var handel2=document.getElementById("down-tit1")
+ if(handel.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+相关文章：
+ {
+ var handel1=document.getElementById("down")
+ var handel2=document.getElementById("down-tit")
+ if(handel1.innerText=="")
+ {
+ handel1.style.display="none";
+ handel2.style.display="none";
+ }
+ }
+发布日期：2023年08月28日
+ 分享到微信朋友圈
+ x
+ 打开微信，点击底部的“发现”，
+使用“扫一扫”即可将网页分享至朋友圈。
+ 【 大 中 小 】
+ 【打印此页】
+ 【关闭窗口】
+ 网站地图
+ 联系我们
+ 主办单位：中华人民共和国财政部
+网站标识码：bm14000001 京ICP备05002860号 京公网安备11010202000006号
+技术支持：财政部信息网络中心
+中华人民共和国财政部 版权所有，如需转载，请注明来源
