@@ -76,6 +76,66 @@ class VectorStore:
         top = top[np.argsort(-sims[top])]
         return [(int(i), float(sims[i])) for i in top]
 
+    # —— 增量更新 ——
+    def upsert(self, ids: list[str], metadatas: list[dict], vectors) -> dict:
+        """新增或替换片段。已存在的 id 就地更新，不存在的追加。
+
+        **为什么需要它**：政策是持续发布的。财政部每月都有新公告，
+        每来一份就重建全量索引（几千条重新 embed）既慢又费钱。
+        增量更新只处理变化的那几条。
+
+        代价：向量矩阵会重建一次（np.vstack），所以批量更新比逐条更新划算。
+        """
+        if not ids:
+            return {"added": 0, "updated": 0, "total": len(self.ids)}
+
+        v = np.asarray(vectors, dtype=np.float32)
+        v = v / np.maximum(np.linalg.norm(v, axis=1, keepdims=True), 1e-9)
+
+        pos = {cid: i for i, cid in enumerate(self.ids)}
+        fresh: list[tuple[str, dict, np.ndarray]] = []
+        added = updated = 0
+        for j, cid in enumerate(ids):
+            i = pos.get(cid)
+            if i is None:
+                fresh.append((cid, metadatas[j], v[j]))
+                added += 1
+            else:
+                self.metadatas[i] = metadatas[j]
+                self.vectors[i] = v[j]
+                updated += 1
+
+        if fresh:
+            self.ids.extend(r[0] for r in fresh)
+            self.metadatas.extend(r[1] for r in fresh)
+            self.vectors = np.vstack([self.vectors, np.stack([r[2] for r in fresh])])
+
+        return {"added": added, "updated": updated, "total": len(self.ids)}
+
+    def remove(self, ids: list[str]) -> int:
+        """按 id 删除片段，返回删除条数。
+
+        政策失效或被撤回时要把它的片段摘出去——留着就等于
+        让检索层继续召回已经作废的依据。
+        """
+        drop = set(ids)
+        if not drop:
+            return 0
+        keep = [i for i, cid in enumerate(self.ids) if cid not in drop]
+        removed = len(self.ids) - len(keep)
+        if removed:
+            self.ids = [self.ids[i] for i in keep]
+            self.metadatas = [self.metadatas[i] for i in keep]
+            self.vectors = self.vectors[keep]
+        return removed
+
+    def stats(self) -> dict:
+        return {
+            "chunks": len(self.ids),
+            "dim": int(self.vectors.shape[1]) if len(self.ids) else 0,
+            "docs": len({m.get("doc_id") for m in self.metadatas}),
+        }
+
     # —— 持久化：一个 .npy 存向量，一个 json 存元数据 ——
     def save(self, path: Path) -> None:
         path.mkdir(parents=True, exist_ok=True)

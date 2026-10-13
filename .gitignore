@@ -14,6 +14,3 @@ venv/
 .vscode/
 .idea/
 .DS_Store
-
-# 切分结果是派生产物（跑 scripts/02_build_index.py 即可重建），不入库
-data/processed/chunks*.jsonl
