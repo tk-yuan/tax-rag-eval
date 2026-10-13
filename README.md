@@ -252,8 +252,18 @@ scripts/01..06         全流程脚本
 docs/DESIGN.md         设计取舍（为什么这么做）
 ```
 
+## 文档
+
+| 文档 | 内容 |
+|---|---|
+| [docs/DESIGN.md](docs/DESIGN.md) | **设计取舍**：语料怎么洗、切分为什么这么选、指标口径的坑、成本怎么看 |
+| [reports/ablation_report.md](reports/ablation_report.md) | **消融实验报告**：7 组配置的实测数字与失败样本 |
+| [reports/regression_baseline.json](reports/regression_baseline.json) | 回归基线：推荐的配置成绩 + 已知失败样本 |
+
 ## 测试
 
 ```bash
-python -m pytest tests/ -q
+python -m pytest tests/ -q                      # 36 个单元测试
+python scripts/07_update_index.py --dry-run     # 索引与语料是否一致
+python scripts/08_regression.py                 # 指标回归（对比基线，退化即失败）
 ```
