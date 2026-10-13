@@ -1,5 +1,9 @@
 # 税收政策 RAG 检索质量与评测系统
 
+[![CI](https://github.com/tk-yuan/tax-rag-eval/actions/workflows/ci.yml/badge.svg)](https://github.com/tk-yuan/tax-rag-eval/actions/workflows/ci.yml)
+![tests](https://img.shields.io/badge/tests-36%20passed-brightgreen)
+![python](https://img.shields.io/badge/python-3.13-blue)
+
 > 面向中文税收政策，把检索从「能跑」做到「**说得清好在哪、差在哪**」。
 >
 > 大多数 RAG 项目停在能跑：接个向量库、调个 embedding、拼个 prompt。本项目把「换个切分会不会更好」
